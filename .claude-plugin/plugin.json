@@ -1,0 +1,11 @@
+{
+  "name": "agent-instruction-authoring",
+  "version": "0.1.0",
+  "description": "Focused skill/instruction authoring and portability review, without auto-installing the result.",
+  "author": {
+    "name": "Leotus-Richard"
+  },
+  "homepage": "https://github.com/Leotus-Richard/agent-instruction-authoring",
+  "repository": "https://github.com/Leotus-Richard/agent-instruction-authoring.git",
+  "license": "MIT"
+}

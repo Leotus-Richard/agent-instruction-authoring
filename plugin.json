@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agent-instruction-authoring",
+  "version": "0.1.0",
+  "description": "Focused skill/instruction authoring and portability review, without auto-installing the result.",
+  "author": {
+    "name": "Leotus-Richard"
+  },
+  "homepage": "https://github.com/Leotus-Richard/agent-instruction-authoring",
+  "repository": "https://github.com/Leotus-Richard/agent-instruction-authoring.git",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Agent Instruction Authoring",
+        "shortDescription": "Focused skill/instruction authoring and portability review, w.",
+        "developerName": "Leotus-Richard",
+        "category": "Productivity"
+      }
+    }
+  }
+}

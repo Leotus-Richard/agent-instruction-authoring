@@ -1,0 +1,16 @@
+[
+  {
+    "sourceSkill": "skill-authoring",
+    "packagedPath": "skills/skill-authoring",
+    "suppliedLicenseFiles": [],
+    "missingLicenseResolution": "MIT selected directly by repository owner on 2026-10-20; not an upstream license assertion"
+  },
+  {
+    "sourceSkill": "writing-for-agents",
+    "packagedPath": "skills/writing-for-agents",
+    "suppliedLicenseFiles": [
+      "LICENSE"
+    ],
+    "missingLicenseResolution": null
+  }
+]
